@@ -1,4 +1,4 @@
-var sensitiveWords = ["John Doe", "69 Femboy St, Columbus, OH", "creampie@femboy.com"]
+const sensitiveWords = ["John Doe", "69 Femboy St, Columbus, OH", "creampie@femboy.com"]
 var textNodes = [];
 
 
