@@ -1,3 +1,7 @@
-расширение для хрома чтобы блюрить чувствительную информацию (адрес, мыло и т.д...)
+# blur-sensetive-info
+Browser extention to blur sensetive info (email, adresses, etc)
 
-написано за 5 минут с помощью chatgpt потому что я js не знаю
+
+## TODO
+
+- observer API
